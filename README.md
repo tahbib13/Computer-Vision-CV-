@@ -1,6 +1,6 @@
 Full Computer Vision Guideline in-depth, formatted for easy reading and study. You can save or convert it into a PDF later using any word processor.
 ________________________________________
-📘 Complete Guide to Computer Vision
+Complete Guide to Computer Vision
 ________________________________________
 🔹 1. Introduction to Computer Vision
 Computer Vision (CV) is a field of Artificial Intelligence that enables machines to interpret and understand visual information from the world, such as images or videos. 
